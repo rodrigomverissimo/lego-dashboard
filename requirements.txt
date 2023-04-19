@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+datetime
+discord
+statsmodels
+scikit-learn
+kaleido
